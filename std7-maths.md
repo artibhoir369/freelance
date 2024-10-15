@@ -19,8 +19,11 @@ Sure! Here’s a sample 7th-grade math question paper based on the provided topi
 
 ### **Q1(A)** Fill in the blanks by choosing the correct option. (4 marks)
 
-1. The multiplicative inverse of \(\frac{2}{5}\) is __________.
-   (a) \(\frac{2}{5}\) (b) \(\frac{5}{2}\) (c) \(-\frac{2}{5}\)
+1. The multiplicative inverse of 2/5 is __________.
+
+(a) 2/5  
+(b) 5/2  
+(c) -2/5
 
 2. If \(x - 9 = 6\), then \(x =\) __________.
    (a) -3 (b) 15 (c) -15
