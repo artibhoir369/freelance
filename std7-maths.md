@@ -60,7 +60,7 @@ Sure! Here’s a sample 7th-grade math question paper based on the provided topi
 
 a. Equal angles  
 b. \(4s\)  
-c. A number that can be expressed as \(\frac{a}{b}\)  
+c. A number that can be expressed as a/b
 d. \(s^2\)  
 
 ---
