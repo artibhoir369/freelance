@@ -1,50 +1,163 @@
-# Standard 7 Mathematics - First Term Exam 2024-25
-
-**Total Marks: 50**
-
-**Instructions:** Answer all questions.
+Sure! Here’s a sample 7th-grade math question paper based on the provided topics and pattern. 
 
 ---
 
-## Q1.  
-### (A) Choose the correct option and fill in the blanks. (04)  
-1. The sum of angles in a triangle is ______.  
-2. The expression \(3x + 5x\) simplifies to ______.  
-3. A right angle measures ______ degrees.  
-4. The product of \(2\) and \(4\) is ______.  
-
-### (B) Match the following. (04)  
-1. \( \frac{1}{2} \)         a. \( a^3 \)  
-2. Square of a number     b. Angle  
-3. Graph of a linear equation   c. Area  
-4. \( 2^3 \)                    d. 8  
+**Holy Cross High School, Mumbai**  
+**Standard 7 Mathematics**  
+**First Term Exam 2024-25**  
+**Total Marks: 50**  
+**Time: 2 Hours**  
 
 ---
 
-## Q2. Do as directed. (Any 5) (10)  
-1. Construct an equilateral triangle with a side of 5 cm.  
-2. Find the value of \( x \) if \( 2x + 3 = 11 \).  
-3. Simplify: \( 4a + 3a - 2a \).  
-4. Calculate \( 2^4 \) and \( 3^2 \).  
-5. Write the joint bar graph data for the following:  
-   - Year 1: A=5, B=10  
-   - Year 2: A=7, B=12  
-6. Find the angle formed between the hour and minute hand at 3:00.
+### **Instructions:**
+- Attempt all questions.
+- Write neatly and legibly.
+- Use a pencil for diagrams.
 
 ---
 
-## Q3. Solve the following. (Any 3) (09)  
-1. Solve for \( x \): \( 5x - 3 = 2x + 6 \).  
-2. Calculate the area of a rectangle with length 8 cm and width 3 cm.  
-3. Evaluate: \( 3^2 + 4^2 - 5^2 \).  
-4. If \( a = 3 \) and \( b = 4 \), find \( 2a + 3b \).  
-5. Solve the following word problem: A rectangle has a perimeter of 30 cm. If the length is 10 cm, what is the width?
+### **Q1(A)** Fill in the blanks by choosing the correct option. (4 marks)
+
+1. The multiplicative inverse of \(\frac{2}{5}\) is __________.
+   (a) \(\frac{2}{5}\) (b) \(\frac{5}{2}\) (c) \(-\frac{2}{5}\)
+
+2. If \(x - 9 = 6\), then \(x =\) __________.
+   (a) -3 (b) 15 (c) -15
+
+3. The sum of the measures of the interior angles of a polygon is __________ \(x (n-2)\).
+   (a) 90° (b) 180° (c) 60°
+
+4. The sum of the measures of the angles in a complementary pair is __________.
+   (a) 90° (b) 180° (c) 60°
+
+5. A decimal that has a digit or group of digits that repeats is called a __________ decimal.
+   (a) terminating (b) recurring (c) integers
+
+6. The sum of the measures of the angles in a supplementary pair is __________.
+   (a) 180° (b) 90° (c) 120°
+
+7. If \(x + 4 = 8\), then \(x =\) __________.
+   (a) 4 (b) -4 (c) 12
+
+8. Terms with the same variables and powers are called __________ terms.
+   (a) like (b) unlike (c) coefficient
+
+9. The measure of an exterior angle of a triangle is equal to the sum of the measures of its remote __________ angles.
+   (a) exterior (b) interior
 
 ---
 
-## Q4. Solve. (Any 3) (09)  
-1. Draw a graph for the equation \( y = 2x + 1 \) for \( x = -2, -1, 0, 1, 2 \).  
-2. If \( x = 3 \), evaluate \( 2x^2 - 3x + 4 \).  
-3. Calculate \( \frac{3}{4} + \frac{2}{5} \).  
-4. Find the sum of the first five prime numbers.  
-5. Solve for \( y \) in t
+### **Q1(B)** Match the following. (4 marks)
+
+1. Perimeter  
+2. Square  
+3. Complementary angles  
+4. Rational number  
+
+a. Equal angles  
+b. \(4s\)  
+c. A number that can be expressed as \(\frac{a}{b}\)  
+d. \(s^2\)  
+
+---
+
+### **Q2** Do as directed. (Any 5) (10 marks)
+
+1. Find the value:  
+   \(\frac{10}{9} \times \frac{10}{6}\)
+
+2. Find the value:  
+   \(123 \div 12^2\)
+
+3. Find the measure of the supplement of an angle of measure 120°.
+
+4. Find the measure of the complement of an angle of measure 80°.
+
+5. Simplify:  
+   \((8^3)^5\)
+
+6. Multiply the following rational numbers:  
+   a) \(\frac{8}{3} \times \frac{5}{12}\)  
+   b) \(\frac{9}{13} \times \frac{4}{7}\)
+
+7. Write the multiplicative inverse:  
+   a) \(-\frac{8}{9}\)  
+   b) \(\frac{2}{3}\)
+
+8. Find the square root of 144 by the factors method.
+
+9. Find the square root of 324.
+
+---
+
+### **Q3** Solve the following. (Any 3) (9 marks)
+
+1. Subtract the second expression from the first:  
+   \(16x + 23y + 12z ; 9x - 27y + 14z\)
+
+2. The sum of two consecutive natural numbers is 69. Find the numbers.
+
+3. The length of a rectangle is 1 cm more than twice its breadth. If the perimeter of the rectangle is 50 cm, find its length.
+
+4. Find the square root of 9801 and 19321 by the division method.
+
+5. Write three rational numbers that lie between \(\frac{2}{7}\) and \(\frac{3}{7}\).
+
+6. Write the number \(\frac{5}{3}\) in decimal form.
+
+---
+
+### **Q4** Solve. (Any 3) (9 marks)
+
+1. Carry out the following addition of rational numbers:  
+   \(\frac{3}{4} + \frac{1}{2}\)
+
+2. Carry out the following subtraction of rational numbers:  
+   \(\frac{5}{6} - \frac{1}{3}\)
+
+3. Simplify the following expressions:  
+   a) \(3a + 5a - 2a\)  
+   b) \(4(x + 2) - 3(x - 1)\)
+
+4. Solve the equation:  
+   \(2x + 3 = 15\)
+
+5. Find the value of \(y\) if \(3y - 4 = 11\).
+
+---
+
+### **Q5** Construct. (Any 2) (6 marks)
+
+1. Construct a triangle given the lengths of its sides: 5 cm, 6 cm, and 7 cm.
+  
+2. Construct an angle of 60° using a compass and straightedge.
+
+---
+
+### **Q6(A)** Observe the graph and answer the following. (2 marks)
+
+1. What is the value of \(y\) when \(x = 3\)?
+
+---
+
+### **Q6(B)** Identify the different graphs shown. (2 marks)
+
+---
+
+### **Q6(C)** Draw a graph for the following data: (4 marks)
+
+| Month   | Sales (in thousands) |
+|---------|----------------------|
+| January | 20                   |
+| February| 30                   |
+| March   | 25                   |
+| April   | 40                   |
+
+---
+
+### **End of Question Paper**
+
+---
+
+Feel free to adjust any parts to better fit your needs! Good luck with your preparation!
