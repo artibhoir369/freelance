@@ -6,5 +6,5 @@
 ### Java, PHP
 ### Asterisk
 ### Linux, Bash scripting, Apache/http, nginx, VPN 
-# I’m confident I can contribute to your project effectively and align with your specific requirements. Thank you for the opportunity!
+# I can contribute to your project effectively and align with your specific requirements. Thank you for the opportunity!
 
