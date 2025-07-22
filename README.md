@@ -17,8 +17,9 @@ I specialize in designing and implementing robust infrastructure, cloud, DevOps,
 - **Containers & Orchestration:** Docker, Kubernetes
 
 ### 📊 Data Engineering & MLOps
-- Data Pipelines & Processing: **Python, PySpark, Apache EMR**
-- Machine Learning Operations (MLOps): Model deployment & monitoring
+- **Data Pipelines & Processing:** Python, PySpark, Apache EMR
+- **Databases:** SQL, PostgreSQL
+- **Machine Learning Operations (MLOps):** Model deployment & monitoring
 
 ### 💻 Programming & Web Tech
 - **Languages:** Python, Java, PHP
